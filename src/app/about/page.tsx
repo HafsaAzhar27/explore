@@ -7,7 +7,7 @@ const Page = () => {
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
         <Image
           className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto"
-          src="/Container Home.jpeg"
+          src="/Home icon.jpeg"
           alt="Sarah Dayan"
           width="384"
           height="512"
@@ -15,10 +15,10 @@ const Page = () => {
         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
           <blockquote>
             <p className="text-lg font-medium">
-              A home is a special place where we feel safe and comfortable.
-              It is not just a building.It is where we share our lives with family and friends. 
-              A home is filled with memories and moments that make us feel happy and loved.
-              It is where we can be ourselves and find peace after a long day.
+             A home is more than just four walls and a roof.
+             It is a place where we can truly relax and be ourselves.
+             Whether it ia small apartment or a big house.A home is where we can find comfort and warmth.
+             It is a place that reflects who we are and where we can always come back to after being out in the world.
             </p>
           </blockquote>
           <figcaption className="font-medium">
